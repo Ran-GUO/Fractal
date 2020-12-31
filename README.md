@@ -1,5 +1,5 @@
 # Fractal
-C++ projet
+C++ project
 
 PNS
 
