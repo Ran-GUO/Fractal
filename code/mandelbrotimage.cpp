@@ -1,0 +1,3 @@
+#include "mandelbrotimage.h"
+
+
