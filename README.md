@@ -1,4 +1,4 @@
-# Fractal-
+# Fractal
 C++ projet
 
 ## environment
