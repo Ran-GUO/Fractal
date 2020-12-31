@@ -11,7 +11,8 @@ install
 ```
 mkdir –p /usr/local/include
 cd /usr/local/include
-git clone https://gitlab.com/libeigen/eigen.git shell> cd eigen
+git clone https://gitlab.com/libeigen/eigen.git
+cd eigen
 git checkout 3.3.7
 ls -d $PWD/Eigen 
 ```
